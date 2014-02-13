@@ -65,7 +65,7 @@
                 <p>or <a href="{{page.metadata.github}}" class="github">clone the repository</a></p>
             </div>
 
-        <div>
+        </div>
     </div>
 </section>
 
@@ -116,10 +116,20 @@
     </div>
 </section>
 
-<!-- Support -->
-<section id="support">
+
+<section id="further">
     <div class="container">
-        {{contents['support.md'].html}}
+        <h2>Going Further</h2>
+        <div class="row">
+            <!-- Support -->
+            <div id="support" class="col-md-6">
+                {{contents['support.md'].html}}
+            </div>
+            <!-- Concepts -->
+            <div id="concepts" class="col-md-6">
+                {{contents['concepts.md'].html}}
+            </div>
+        </div>
     </div>
 </section>
 

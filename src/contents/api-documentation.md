@@ -1,7 +1,8 @@
 ---
-url: http://osgjs.org/
+url: index.html#concepts
 ---
 
-###Getting started
+###Documentation, API, Analysis
 
-Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+OSGJS is based on [OpenSceneGraph](http://en.wikipedia.org/wiki/OpenSceneGraph) API, which is based on a few concepts that allow a solid grasp around the whole library once and for all, and those are mandatory in order to dive into code.
+

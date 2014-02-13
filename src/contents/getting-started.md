@@ -1,7 +1,8 @@
 ---
-url: http://osgjs.org/
+url: http://codepen.io/osgjs/
 ---
 
-###Getting started
+###Tutorials
+Nothing helps more than toying with osgjs code and osg concept directly, here's a interactive playground where you can start coding osgjs in 5 secs
 
-Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+

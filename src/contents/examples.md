@@ -1,6 +1,6 @@
 ---
-title: Examples
-base: https://github.com/cedricpinson/osgjs/tree/develop/examples/
+title: SDK Examples
+base: examples/
 samples:
     - camera
     - camera-gallery
