@@ -15,7 +15,7 @@ Reach us by sending an e-mail to contact@osgjs.org</p>
 Follow [@osgjs](http://twitter.com/osgjs) on Twitter.
 
 ###Blog
-Follow Our [Blog](http://osgjs.tumblr.com) to get news and updates.
+Follow our [Blog](http://osgjs.tumblr.com) to get news and updates.
 
 ###Google+
 Follow [Community news](https://plus.google.com/u/0/communities/105204964607979327212) on G+.

@@ -1,9 +1,0 @@
-
-- [Slides](http://www.macs.hw.ac.uk/~ruth/year4VEs/Slides10/L9.pdf)
-- [Scene Graph](http://www.stackedboxes.org/~lmb/en/computer-stuff/asittbpo-open-scene-graph/chapter-1-the-basics)
-- [StateSet](http://www.bricoworks.com/articles/stateset/stateset.html)
-- [StateGraph](http://www.bricoworks.com/articles/stategraph/stategraph.html)
-- [Some Maths](http://trac.openscenegraph.org/projects/osg/wiki/Support/Maths)
-- [WebGL](http://www.webglacademy.com/)
-- [FAQ] (http://trac.openscenegraph.org/projects/osg//wiki/Support/FAQ)
-Annotated source Provide an extensive way of browsing current source code & comments. [Source code analysis](docs/analysis) and extensive [Unit Tests](tests/)

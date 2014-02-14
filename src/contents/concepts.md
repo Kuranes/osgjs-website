@@ -1,9 +1,9 @@
 ## OGSJ Code Documentation
-[API](docs/annotated-source/OSG.html) | [Unit Tests](tests/) | [Analysis](docs/analysis)
+[API (auto-generated)](docs/annotated-source/OSG.html) | [Unit Tests (Qunit)](tests/) | [Analysis (Plato)](docs/analysis)
 ##Concepts
 ###Overall Concepts Introduction
 [Slides](http://www.macs.hw.ac.uk/~ruth/year4VEs/Slides10/L9.pdf)
-###What is an Scene Graph and its uses ?
+###What is a Scene Graph are its uses ?
 [Scene Graph](http://www.stackedboxes.org/~lmb/en/computer-stuff/asittbpo-open-scene-graph/chapter-1-the-basics)
 ###How to set properties on Nodes ?
 [StateSet](http://www.bricoworks.com/articles/stateset/stateset.html) and [StateGraph](http://www.bricoworks.com/articles/stategraph/stategraph.html)
