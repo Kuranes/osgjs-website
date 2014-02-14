@@ -1,5 +1,5 @@
 ## OGSJ Code Documentation
-[API (auto-generated)](docs/annotated-source/OSG.html) | [Unit Tests (Qunit)](tests/) | [Analysis (Plato)](docs/analysis)
+[API (auto-generated)](docs/annotated-source/osg.html) | [Unit Tests (Qunit)](tests/) | [Analysis (Plato)](docs/analysis)
 ##Concepts
 ###Overall Concepts Introduction
 [Slides](http://www.macs.hw.ac.uk/~ruth/year4VEs/Slides10/L9.pdf)
